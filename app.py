@@ -4,7 +4,7 @@ import requests
 # ─────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://cinerec.onrender.com/" or "http://127.0.0.1:8000"
 
 st.set_page_config(
     page_title="🎬 CineRec",
